@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Alexandr Biktimirov
 
-<!--
-**alexandrbiktimirov/alexandrbiktimirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer with a passion for building web applications. I enjoy exploring new technologies and leveraging them to create innovative solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Web Development:** HTML, CSS, JavaScript  
+- **Programming:** Java, C++
+
+---
+
+## 📖 Currently Learning
+- **Python**  
+- **C#**
+- **Spring Boot**
+
+---
+
+## 📬 Reach Me
+- **Email:** [biktimiorvalexandr@gmail.com](mailto:biktimiorvalexandr@gmail.com)  
+- **LinkedIn:** [Oleksandr Biktimirov](https://www.linkedin.com/in/oleksandr-biktimirov-5b4b6926b/)
+
+---
+
+## 🌐 Me Around the Web
+- **LeetCode:** [Computer_Genius](https://leetcode.com/u/Computer_Genius/)  
+- **GitHub:** [alexandrbiktimirov](https://github.com/alexandrbiktimirov)

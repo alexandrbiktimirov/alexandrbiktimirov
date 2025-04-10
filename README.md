@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 ---
 
 ## 📖 Currently Learning
-- **Python**  
+- [**Python**](https://github.com/alexandrbiktimirov/PPY_Tutorials)
 - **C#**
 - **Spring Boot**
+- [**Basics of Machine Learning**](https://github.com/alexandrbiktimirov/NAI_Tutorials)
 
 ---
 

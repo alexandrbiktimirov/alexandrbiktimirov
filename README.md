@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 - **C#**
 - **Spring Boot**
 - [**Basics of Machine Learning**](https://github.com/alexandrbiktimirov/NAI_Tutorials)
+- [**Physics**](https://github.com/alexandrbiktimirov/PSM_Tutorials)
 
 ---
 

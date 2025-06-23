@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 
 ---
 
-## 📖 Currently working on:
+## 🔧 Currently working on:
 - [**Custom PC Builder Shop**](https://github.com/alexandrbiktimirov/CustomPCBuilder)
 
 ---

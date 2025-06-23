@@ -10,12 +10,8 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 
 ---
 
-## 📖 Currently Learning
-- [**Python**](https://github.com/alexandrbiktimirov/PPY_Tutorials)
-- [**C#**](https://github.com/alexandrbiktimirov/APBD_Tutorials)
-- **Spring Boot**
-- [**Basics of Machine Learning**](https://github.com/alexandrbiktimirov/NAI_Tutorials)
-- [**Physics**](https://github.com/alexandrbiktimirov/PSM_Tutorials)
+## 📖 Currently working on:
+- [**Custom PC Builder Shop**](https://github.com/alexandrbiktimirov/CustomPCBuilder)
 
 ---
 

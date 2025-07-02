@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 
 ## 💻 Skills
 - **Web Development:** HTML, CSS, JavaScript  
-- **Programming:** Java, C++
+- **Programming:** Java, C++, C#, Python
 
 ---
 

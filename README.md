@@ -22,5 +22,4 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 ---
 
 ## 🌐 Me Around the Web
-- **LeetCode:** [Computer_Genius](https://leetcode.com/u/Computer_Genius/)  
-- **GitHub:** [alexandrbiktimirov](https://github.com/alexandrbiktimirov)
+- **LeetCode:** [Alexandr Biktimirov](https://leetcode.com/u/alexandrbiktimirov/)

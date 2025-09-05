@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alexandr Biktimirov
 
-Welcome to my GitHub profile! I'm a software developer with a passion for building web applications. I enjoy exploring new technologies and leveraging them to create innovative solutions.
+Welcome to my GitHub profile! I'm a software engineer with a passion for building web applications. I enjoy exploring new technologies and leveraging them to create innovative solutions.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for buildi
 ---
 
 ## 🔧 Currently working on:
-- [**Custom PC Builder Shop**](https://github.com/alexandrbiktimirov/CustomPCBuilder)
+- [**PC Shop**](https://github.com/alexandrbiktimirov/PC_Shop)
 
 ---
 

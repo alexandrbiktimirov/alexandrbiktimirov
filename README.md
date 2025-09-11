@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 ---
 
 ## 💻 Skills
-- **Web Development:** HTML, CSS, JavaScript  
-- **Programming:** Java, C++, C#, Python
+- **Web Development:** HTML, CSS, JavaScript.
+- **Programming:** Java, C++, C#, Python.
 
 ---
 

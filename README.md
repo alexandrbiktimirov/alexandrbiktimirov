@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 ## 🔧 Currently working on:
 - [**PC Shop**](https://github.com/alexandrbiktimirov/PC_Shop)
+- [**Library**](https://github.com/alexandrbiktimirov/Innowise-Task1-Library)
 
 ---
 

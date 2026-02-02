@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Alexandr Biktimirov
-
 Welcome to my GitHub profile! I'm a software engineer with a passion for building web applications. I enjoy exploring new technologies and leveraging them to create innovative solutions.
 
 ---
